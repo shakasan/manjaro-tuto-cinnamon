@@ -10,7 +10,7 @@ Les commentaires sont évidement les bienvenus ;)
 
 Bon... normalement, à ce stade, vous venez de terminer l'installation de base de **Manjaro Cinnamon** ;)
 
-> **Remarque** : hormis quelques points propres à Gnome, cette doc est valable pour d'autres variantes de Manjaro.
+> **Remarque** : hormis quelques points propres à Cinnamon, cette doc est valable pour d'autres variantes de Manjaro.
 
 ## Outils de base
 
@@ -367,10 +367,6 @@ pulseaudio -k
 ```
 
 ### Vérifier son utilisation
-
-#### Via l'extension Gnome `Sound Input & Output Device Chooser`
-
-![pulseaudio_bt_ldac.jpg](/pics/pulseaudio_bt_ldac.jpg)
 
 #### Via `pactl list`
 
