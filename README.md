@@ -8,7 +8,7 @@ Les commentaires sont évidement les bienvenus ;)
 
 # Post Installation
 
-Bon... normalement, à ce stade, vous venez de terminer l'installation de base de **Manjaro Gnome** ;)
+Bon... normalement, à ce stade, vous venez de terminer l'installation de base de **Manjaro Cinnamon** ;)
 
 > **Remarque** : hormis quelques points propres à Gnome, cette doc est valable pour d'autres variantes de Manjaro.
 
