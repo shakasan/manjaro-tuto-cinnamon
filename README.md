@@ -62,7 +62,7 @@ Et on ajoute les dépôts suivants :
 Server = https://mirror.archstrike.org/$arch/$repo
 
 [herecura]
-Server = https://repo.herecura.be/$repo/$arch
+Server = https://repo.herecura.eu/$repo/$arch
 ```
 
 On met les DBs des paquets à jour
