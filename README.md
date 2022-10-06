@@ -640,7 +640,7 @@ L'installation de "base" étant terminée, passons à l'ajout des applications.
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S detox qt5-styleplugins clamav clamtk acetoneiso2 alltray aria2 htop bmon screen bleachbit copyq dialog dosbox fcrackzip fdupes figlet guake idle3-tools mupdf mupdf-tools pdfcrack pdfgrep psensor pv screenfetch neofetch ulauncher terminator tilda pandoc stress odt2txt strace tilix etcher lm_sensors pdfmixtool libva-utils xdotool tmsu-bin xcalib qtqr woeusb spectre-meltdown-checker inxi cryptkeeper s-tui linpack nano-syntax-highlighting-git kdocker rpi-imager duf
+yay -S detox qt5-styleplugins clamav clamtk acetoneiso2 alltray aria2 htop bmon screen bleachbit copyq dialog dosbox fcrackzip fdupes figlet guake idle3-tools mupdf mupdf-tools pdfcrack pdfgrep psensor pv screenfetch neofetch ulauncher terminator tilda pandoc stress odt2txt strace tilix etcher-bin lm_sensors pdfmixtool libva-utils xdotool tmsu-bin xcalib qtqr woeusb spectre-meltdown-checker inxi cryptkeeper s-tui linpack nano-syntax-highlighting-git kdocker rpi-imager duf
 ```
 
 Depuis `Flatpak`
@@ -768,7 +768,7 @@ pipx install speedtest-cli
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S thunar-gtk3 thunar-{archive-plugin-gtk3,media-tags-plugin,volman-gtk3}
+yay -S thunar-gtk3 thunar-{archive-plugin,media-tags-plugin,volman}
 ```
 
 ## Wine
@@ -1642,7 +1642,7 @@ yay -S zeal
 
 # Info & Licence
 
--   Doc réalisée par Francois B (Makoto)
--   Publiée sous les termes de la licence Creative Commons [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/be/)
+- Doc réalisée par Francois B (Makoto)
+- Publiée sous les termes de la licence Creative Commons [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/be/)
 
 [![cc-by-nc-sa](https://licensebuttons.net/l/by-nc-sa/2.0/be/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/be/)
