@@ -768,7 +768,7 @@ pipx install speedtest-cli
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S thunar-gtk3 thunar-{archive-plugin,media-tags-plugin,volman}
+yay -S thunar thunar-{archive-plugin,media-tags-plugin,volman}
 ```
 
 ## Wine
