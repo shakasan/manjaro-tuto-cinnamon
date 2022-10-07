@@ -1589,7 +1589,7 @@ gem install package_cloud
 ### Postman
 
 ```shell
-yay -S postman-bin
+flatpak install flathub com.getpostman.Postman
 ```
 
 ### Terraform
