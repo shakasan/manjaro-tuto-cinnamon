@@ -738,7 +738,24 @@ yay -S firefox firefox-i18n-fr chromium slack-desktop thunderbird thunderbird-i1
 Depuis `Flatpak`
 
 ```shell
-sudo flatpak install flathub com.microsoft.Teams nz.mega.MEGAsync
+sudo flatpak install flathub com.microsoft.Teams
+```
+
+Pour MEGASync, un dépot Arch est fourni par MEGA
+
+Ajouter ce mirroir dans `/etc/pacman.conf` à la fin
+
+```shell
+[DEB_Arch_Extra]
+SigLevel = Required TrustedOnly
+Server = https://mega.nz/linux/repo/Arch_Extra/$arch
+```
+
+Suivis d'un
+
+```shell
+yay -Syy
+yay -S megasync
 ```
 
 ## Réseau
