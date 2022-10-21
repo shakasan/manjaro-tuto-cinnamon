@@ -149,8 +149,6 @@ On rajoute quelques polices de caractères utiles/manquantes.
 yay -S ttf-bitstream-vera
 ```
 
-Depuis AUR
-
 Malheureusement nécessaires...
 
 ```shell
