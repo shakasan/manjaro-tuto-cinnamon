@@ -638,7 +638,7 @@ L'installation de "base" étant terminée, passons à l'ajout des applications.
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S detox qt5-styleplugins clamav clamtk acetoneiso2 alltray aria2 htop bmon screen bleachbit copyq dialog dosbox fcrackzip fdupes figlet guake idle3-tools mupdf mupdf-tools pdfcrack pdfgrep psensor pv screenfetch neofetch ulauncher terminator tilda pandoc stress odt2txt strace tilix etcher-bin lm_sensors pdfmixtool libva-utils xdotool tmsu-bin xcalib qtqr woeusb spectre-meltdown-checker inxi cryptkeeper s-tui linpack nano-syntax-highlighting-git kdocker rpi-imager duf
+yay -S detox qt5-styleplugins clamav clamtk acetoneiso2 alltray aria2 htop bmon screen bleachbit copyq dialog dosbox fcrackzip fdupes figlet guake idle3-tools mupdf mupdf-tools pdfcrack pdfgrep psensor pv screenfetch neofetch ulauncher terminator tilda pandoc stress odt2txt strace tilix etcher-bin lm_sensors pdfmixtool libva-utils xdotool tmsu-bin xcalib qtqr woeusb spectre-meltdown-checker inxi cryptkeeper s-tui linpack nano-syntax-highlighting kdocker rpi-imager duf
 ```
 
 Depuis `Flatpak`
@@ -694,7 +694,7 @@ yay -S gimp gimp-{help-fr,nufraw,plugin-gmic} gimp-{plugin-refocusit,plugin-pand
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S obs-studio obs-websocket obs-cli
+yay -S obs-studio obs-websocket-bin obs-cli
 ```
 
 ## eBook
@@ -718,7 +718,7 @@ yay -S brasero k3b xfburn
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S libreoffice-still libreoffice-still-fr dia scribus mate-calc
+yay -S libreoffice-still libreoffice-still-fr scribus mate-calc
 ```
 
 Depuis `Flatpak`
@@ -732,13 +732,13 @@ sudo flatpak install flathub com.jgraph.drawio.desktop
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S firefox firefox-i18n-fr chromium slack-desktop thunderbird thunderbird-i18n-fr nextcloud-client digikam discord filezilla google-chrome hexchat icedtea-web links mumble teamspeak3 mypaint opera opera-ffmpeg-codecs pidgin pidgin-{libnotify,otr} purple-{facebook,plugin-pack,skypeweb} quiterss syncthing syncthing-gtk-python3 telegram-{desktop,qt} vivaldi vivaldi-ffmpeg-codecs skypeforlinux-stable zoom liferea rambox-bin cawbird signal-desktop caprine newsflash brave-browser element-desktop whalebird-bin tootle birdtray megasync-bin telegram-purple nordvpn-bin microsoft-edge-stable-bin torbrowser-launcher gallery-dl teams ferdium-bin hamsket-bin tangram
+yay -S firefox firefox-i18n-fr chromium slack-desktop thunderbird thunderbird-i18n-fr nextcloud-client digikam discord filezilla google-chrome hexchat icedtea-web links mumble teamspeak3 mypaint opera opera-ffmpeg-codecs pidgin pidgin-{libnotify,otr} purple-{facebook,plugin-pack,skypeweb} quiterss syncthing syncthing-gtk-python3 telegram-{desktop,qt} vivaldi vivaldi-ffmpeg-codecs skypeforlinux-stable zoom liferea cawbird signal-desktop caprine newsflash brave-browser element-desktop whalebird-bin tootle birdtray telegram-purple nordvpn-bin microsoft-edge-stable-bin torbrowser-launcher gallery-dl teams ferdium-bin hamsket-bin tangram
 ```
 
 Depuis `Flatpak`
 
 ```shell
-sudo flatpak install flathub com.microsoft.Teams
+sudo flatpak install flathub com.microsoft.Teams nz.mega.MEGAsync
 ```
 
 ## Réseau
@@ -792,7 +792,7 @@ yay -S kicad kicad-library kicad-library-3d librecad freecad
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S joyutils lutris gnutls lib32-gnutls steam-manjaro gamemode lib32-gamemode bottles
+yay -S joyutils lutris gnutls lib32-gnutls steam gamemode lib32-gamemode bottles
 ```
 
 Et `protonup-qt` pour gérer les releases de Proton-GE pour Steam
@@ -892,7 +892,7 @@ On ajoute quelques thèmes GTK et icones
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S arc-{gtk-theme,solid-gtk-theme} matcha-gtk-theme numix-{gtk-theme-git,icon-theme-git} arc-icon-theme-full-git nephrite-gtk-theme-git
+yay -S arc-{gtk-theme,solid-gtk-theme} matcha-gtk-theme numix-{gtk-theme-git,icon-theme-git} arc-icon-theme-full-git
 ```
 
 ## Widgets
@@ -1457,12 +1457,6 @@ sudo usermod -a -G uucp shakasan
 sudo usermod -a -G lock shakasan
 ```
 
-### Atom
-
-```shell
-yay -S atom apm
-```
-
 ### Bluefish
 
 ```shell
@@ -1612,12 +1606,6 @@ yay -S vagrant
 
 ```shell
 yay -S virtualbox virtualbox-host-dkms
-```
-
-Et en fonction de votre Kernel
-
-```shell
-trizen -S linux516-headers linux516-virtualbox-host-modules
 ```
 
 Suivi d'un reboot ou bien
