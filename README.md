@@ -732,7 +732,7 @@ sudo flatpak install flathub com.jgraph.drawio.desktop
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S firefox firefox-i18n-fr chromium slack-desktop thunderbird thunderbird-i18n-fr nextcloud-client digikam discord filezilla google-chrome hexchat icedtea-web links mumble teamspeak3 mypaint opera opera-ffmpeg-codecs pidgin pidgin-{libnotify,otr} purple-{facebook,plugin-pack,skypeweb} quiterss syncthing syncthing-gtk-python3 telegram-{desktop,qt} vivaldi vivaldi-ffmpeg-codecs skypeforlinux-stable zoom liferea cawbird signal-desktop caprine newsflash brave-browser element-desktop whalebird-bin tootle birdtray telegram-purple nordvpn-bin microsoft-edge-stable-bin torbrowser-launcher gallery-dl teams ferdium-bin hamsket-bin tangram megasync-nopdfium
+yay -S firefox firefox-i18n-fr chromium slack-desktop thunderbird thunderbird-i18n-fr nextcloud-client digikam discord filezilla google-chrome hexchat icedtea-web links mumble teamspeak3 mypaint opera opera-ffmpeg-codecs pidgin pidgin-{libnotify,otr} purple-{facebook,plugin-pack,skypeweb} quiterss syncthing syncthing-gtk-python3 telegram-{desktop,qt} vivaldi vivaldi-ffmpeg-codecs skypeforlinux-stable zoom liferea cawbird signal-desktop caprine newsflash brave-browser element-desktop whalebird-bin tootle birdtray telegram-purple nordvpn-bin microsoft-edge-stable-bin torbrowser-launcher gallery-dl teams ferdium-bin hamsket-bin tangram
 ```
 
 Depuis `Flatpak`
