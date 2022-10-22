@@ -161,14 +161,6 @@ Et pour le japonais ;)
 yay -S noto-fonts-cjk noto-fonts-emoji noto-fonts
 ```
 
-## Impression
-
-On ajoute ce qui manque à l'installation initiale.
-
-```shell
-yay -S foomatic-{db-ppds,db-nonfree,db-nonfree-ppds}
-```
-
 ## Bluetooth
 
 On ajoute ce qui manque au support du bluetooth
