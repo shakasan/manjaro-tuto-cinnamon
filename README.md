@@ -884,7 +884,7 @@ On ajoute quelques thèmes GTK et icones
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S arc-{gtk-theme,solid-gtk-theme} matcha-gtk-theme numix-{gtk-theme-git,icon-theme-git} arc-icon-theme-full-git
+yay -S arc-{gtk-theme,solid-gtk-theme} matcha-gtk-theme numix-{gtk-theme-git,icon-theme-git} arc-icon-theme-full-git kvantum-theme-matcha kvantum-theme-orchis-git orchis-theme
 ```
 
 ## Widgets
