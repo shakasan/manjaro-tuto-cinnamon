@@ -578,7 +578,7 @@ yay -S ledger-live-bin
 
 #### Méthode 2 (officielle)
 
-On télécharge l'`AppImage` officielle via cette URL : <https://download-live.ledger.com/releases/latest/download/linux> et on l'install via `AppImageLauncher`.
+On télécharge l'`AppImage` officielle via cette URL : <https://download-live.ledger.com/> et on l'install via `AppImageLauncher`.
 
 > **Remarque** : je vous conseille de TOUJOURS télécharger ET vérifier le contenu d'un script AVANT de l'exécuter, comme c'est le cas dans la commande ci-dessous.
 
