@@ -1299,6 +1299,7 @@ pipx install pylint
 pipx install autopep8
 pipx install pycodestyle
 pipx install flake8
+pip install --user pipdeptree
 ```
 
 ### QT5/QT6
