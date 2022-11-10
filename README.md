@@ -1300,6 +1300,7 @@ pipx install autopep8
 pipx install pycodestyle
 pipx install flake8
 pip install --user pipdeptree
+pip install --user pip-autoremove
 ```
 
 ### QT5/QT6
