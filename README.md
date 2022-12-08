@@ -630,7 +630,7 @@ L'installation de "base" étant terminée, passons à l'ajout des applications.
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S detox qt5-styleplugins clamav clamtk acetoneiso2 alltray aria2 htop bmon screen bleachbit copyq dialog dosbox fcrackzip fdupes figlet guake idle3-tools mupdf mupdf-tools pdfcrack pdfgrep psensor pv screenfetch neofetch ulauncher terminator tilda pandoc stress odt2txt strace tilix etcher-bin lm_sensors pdfmixtool libva-utils xdotool tmsu-bin xcalib qtqr woeusb spectre-meltdown-checker inxi cryptkeeper s-tui linpack nano-syntax-highlighting kdocker rpi-imager duf iotop vorta edid-decode-git hw-probe mc sct fwupd
+yay -S detox qt5-styleplugins clamav clamtk acetoneiso2 alltray aria2 htop bmon screen bleachbit copyq dialog dosbox fcrackzip fdupes figlet guake idle3-tools mupdf mupdf-tools pdfcrack pdfgrep psensor pv screenfetch neofetch ulauncher terminator tilda pandoc stress odt2txt strace tilix etcher-bin lm_sensors pdfmixtool libva-utils xdotool tmsu-bin xcalib qtqr woeusb spectre-meltdown-checker inxi cryptkeeper s-tui linpack nano-syntax-highlighting kdocker rpi-imager duf iotop vorta edid-decode-git hw-probe mc sct fwupd nvtop
 ```
 
 Depuis `Flatpak`
