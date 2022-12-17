@@ -686,7 +686,7 @@ yay -S gimp gimp-{help-fr,nufraw,plugin-gmic} gimp-{plugin-refocusit,plugin-pand
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S obs-studio obs-websocket-bin obs-cli
+yay -S obs-studio obs-websocket-bin obs-cli obs-websocket-compat
 ```
 
 ## eBook
