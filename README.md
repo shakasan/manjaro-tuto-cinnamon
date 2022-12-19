@@ -738,7 +738,7 @@ sudo flatpak install flathub com.microsoft.Teams com.github.IsmaelMartinez.teams
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S aircrack-ng ngrep networkmanager-openvpn dsniff wireshark-qt wireshark-cli iftop iptraf-ng nethogs whois keychain x11-ssh-askpass nmap bind-tools bluez vinagre remmina traceroute remmina-plugin-rdesktop sshs iperf3 aur/enum4linux enum4linux-ng-git ifmetric
+yay -S aircrack-ng ngrep networkmanager-openvpn dsniff wireshark-qt wireshark-cli iftop iptraf-ng nethogs whois keychain x11-ssh-askpass nmap bind-tools bluez vinagre remmina traceroute remmina-plugin-rdesktop sshs iperf3 aur/enum4linux enum4linux-ng-git ifmetric ipmitool
 ```
 
 Depuis `NPM`
