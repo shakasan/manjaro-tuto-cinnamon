@@ -1487,6 +1487,12 @@ yay -S lazarus-qt5 gdb
 yay -S notepadqq
 ```
 
+### Pulsar (Atom fork)
+
+```shell
+yay -S pulsar-bin
+```
+
 ### PyCharm (CE)
 
 ```shell
