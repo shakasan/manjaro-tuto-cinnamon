@@ -733,6 +733,14 @@ Depuis `Flatpak`
 sudo flatpak install flathub com.microsoft.Teams com.github.IsmaelMartinez.teams_for_linux
 ```
 
+Workaround pour Discord quand le nouveau paquet n'est pas encore dispo
+
+Editer `~/.config/discord/settings.json` et ajouter ceci au fichier JSON :
+
+```json
+  "SKIP_HOST_UPDATE": true
+```
+
 ## Réseau
 
 Depuis les dépôts et/ou AUR
