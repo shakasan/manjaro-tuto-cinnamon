@@ -847,32 +847,6 @@ Depuis les dépôts et/ou AUR
 yay -S no-more-secrets-git
 ```
 
-## gotify-desktop
-
-Depuis les dépôts et/ou AUR
-
-```shell
-yay -S gotify-desktop
-```
-
-Et créer une config
-
-```shell
-mkdir -p .config/gotify-desktop
-nano .config/gotify-desktop/config.toml
-```
-
-Avec cette config
-
-```
-[gotify]
-url = "wss://YOUR_GOTIFY_URL:443"
-token = "YOUR_TOKEN_FROM_GOTIFY"
-
-[notification]
-min_priority = 1  # optional, ignores messages with priority lower than given value
-```
-
 ## Perso
 
 Depuis les dépôts et/ou AUR
