@@ -1608,6 +1608,10 @@ yay -S wpscan
 yay -S zeal
 ```
 
+### Figma
+
+Via une AppImage : <https://github.com/Figma-Linux/figma-linux/releases>
+
 # Info & Licence
 
 - Doc réalisée par Francois B (Makoto)
