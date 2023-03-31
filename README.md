@@ -746,7 +746,7 @@ Editer `~/.config/discord/settings.json` et ajouter ceci au fichier JSON :
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S aircrack-ng ngrep networkmanager-openvpn dsniff wireshark-qt wireshark-cli iftop iptraf-ng nethogs whois keychain x11-ssh-askpass nmap bind-tools bluez vinagre remmina traceroute remmina-plugin-rdesktop sshs iperf3 aur/enum4linux enum4linux-ng-git ifmetric ipmitool ipcalc
+yay -S aircrack-ng ngrep networkmanager-openvpn dsniff wireshark-qt wireshark-cli iftop iptraf-ng nethogs whois keychain x11-ssh-askpass nmap bind-tools bluez vinagre remmina traceroute remmina-plugin-rdesktop sshs iperf3 aur/enum4linux enum4linux-ng-git ifmetric ipmitool ipcalc dnslookup
 ```
 
 Depuis `NPM`
