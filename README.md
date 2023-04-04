@@ -716,7 +716,7 @@ yay -S libreoffice-still libreoffice-still-fr scribus mate-calc
 Depuis `Flatpak`
 
 ```shell
-sudo flatpak install flathub com.jgraph.drawio.desktop
+sudo flatpak install flathub com.jgraph.drawio.desktop org.nickvision.money
 ```
 
 ## Internet, Web
