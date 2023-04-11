@@ -730,7 +730,7 @@ yay -S firefox firefox-i18n-fr chromium slack-desktop thunderbird thunderbird-i1
 Depuis `Flatpak`
 
 ```shell
-sudo flatpak install flathub com.microsoft.Teams com.github.IsmaelMartinez.teams_for_linux
+sudo flatpak install flathub com.microsoft.Teams com.github.IsmaelMartinez.teams_for_linux net.jami.Jami
 ```
 
 Workaround pour Discord quand le nouveau paquet n'est pas encore dispo
