@@ -785,6 +785,14 @@ Depuis les dépôts et/ou AUR
 yay -S kicad kicad-library kicad-library-3d librecad freecad
 ```
 
+## AI
+
+Depuis `Flatpak`
+
+```shell
+sudo flatpak install flathub io.github.Bavarder.Bavarder
+```
+
 ## Jeux
 
 ### Jeux - Utilitaires
