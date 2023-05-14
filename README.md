@@ -1512,7 +1512,7 @@ yay -S ansible ansible-lint
 ### Joplin
 
 ```shell
-yay -S joplin-appimage
+yay -S joplin-desktop
 ```
 
 ### DBeaver
