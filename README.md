@@ -1209,7 +1209,7 @@ Pour cette partie, je passe certaines explications étant donné le publique cib
 ## Outis de base
 
 ```shell
-yay -S gdb ghex jq meld
+yay -S gdb ghex jq meld yq
 ```
 
 ## Langages
