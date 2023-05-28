@@ -664,7 +664,7 @@ yay -S quodlibet vlc mpv xsane shotwell simplescreenrecorder lib32-simplescreenr
 Depuis `Flatpak`
 
 ```shell
-sudo flatpak install flathub com.spotify.Client com.github.marinm.songrec org.gnome.gitlab.YaLTeR.VideoTrimmer org.flozz.yoga-image-optimizer io.github.jliljebl.Flowblade
+sudo flatpak install flathub com.spotify.Client com.github.marinm.songrec org.gnome.gitlab.YaLTeR.VideoTrimmer org.flozz.yoga-image-optimizer io.github.jliljebl.Flowblade org.nickvision.tubeconverter
 ```
 
 Depuis `PIP`
