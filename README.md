@@ -758,7 +758,7 @@ npm i -g whatismyip
 Depuis `PIP`
 
 ```shell
-pipx install speedtest-cli
+pipx install cf-speedtest
 ```
 
 ## Thunar + plugins
