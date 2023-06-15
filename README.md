@@ -904,6 +904,14 @@ Dock léger et bien fini en provenance de ElementaryOS.
 yay -S plank
 ```
 
+#### Plank themes
+
+Quelques themes pour Plank
+
+```shell
+yay -S plank-theme-arian-git plank-theme-monterey-dim
+```
+
 # Configuration / Customization
 
 Il est maintenant temps d'un peu "fine tuner" comme dirait certains ;)
