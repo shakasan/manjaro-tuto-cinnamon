@@ -1687,26 +1687,6 @@ export BAT_CONFIG_PATH="~/.config/bat/config"
 export cat='bat'
 ```
 
-### Podman-Desktop
-
-#### Podman-Desktop
-
-```shell
-yay -S podman-desktop-bin
-```
-
-#### kind (Kubernets IN Docker)
-
-```shell
-yay -S kind-bin
-```
-
-#### Podman-Desktop extensions
-
-- Depuis https://github.com/crc-org/crc-extension : `quay.io/redhat-developer/openshift-local-extension:latest`
-
-- Depuis https://github.com/redhat-developer/podman-desktop-sandbox-ext : `ghcr.io/redhat-developer/podman-desktop-sandbox-ext:latest`
-
 # Info & Licence
 
 - Doc réalisée par Francois B (Makoto)
