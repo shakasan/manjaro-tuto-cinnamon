@@ -873,7 +873,7 @@ On ajoute quelques thèmes GTK et icones
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S arc-gtk-theme arc-icon-theme matcha-gtk-theme kvantum-theme-matcha kvantum-theme-orchis-git orchis-theme elementary-icon-theme kvantum-theme-materia materia-gtk-theme whitesur-gtk-theme whitesur-kvantum-theme-patched-git yaru-gtk-theme aritim-dark-gtk-git aritim-dark-kde-git qogir-gtk-theme-git kvantum-theme-qogir-git adw-gtk3 adwaita-qt5 adwaita-qt6 colloid-gtk-theme-git colloid-kde-theme-git
+yay -S arc-gtk-theme arc-icon-theme matcha-gtk-theme kvantum-theme-matcha kvantum-theme-orchis-git orchis-theme elementary-icon-theme kvantum-theme-materia materia-gtk-theme whitesur-gtk-theme whitesur-kvantum-theme-patched-git yaru-gtk-theme aritim-dark-gtk-git aritim-dark-kde-git qogir-gtk-theme-git kvantum-theme-qogir-git adw-gtk3 adwaita-qt5 adwaita-qt6 colloid-gtk-theme-git colloid-kde-theme-git numix-gtk-theme-git
 ```
 
 ## Widgets
