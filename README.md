@@ -657,13 +657,13 @@ pipx install md2pdf
 Depuis des dépôts et/ou AUR
 
 ```shell
-yay -S quodlibet vlc mpv xsane shotwell simplescreenrecorder lib32-simplescreenrecorder asunder audacious audacious-plugins audacity avidemux-cli avidemux-qt blender cheese cuetools darktable peek shotcut flacon gpick gpicview guvcview handbrake handbrake-cli hugin inkscape kodi krita milkytracker mkvtoolnix-cli mkvtoolnix-gui moc openshot picard pitivi rawtherapee shntool smplayer smplayer-{skins,themes} soundconverter id3v2 youtube-dl mac libdvdcss celluloid vidcutter font-manager blanket birdfont gcolor3 xnviewmp-system-libs indicator-sound-switcher gifcurry flameshot webp-pixbuf-loader upscayl-appimage converter waifu2x-ncnn-vulkan realesrgan-ncnn-vulkan
+yay -S quodlibet vlc mpv xsane shotwell simplescreenrecorder lib32-simplescreenrecorder asunder audacious audacious-plugins audacity avidemux-cli avidemux-qt blender cheese cuetools darktable peek shotcut flacon gpick gpicview guvcview handbrake handbrake-cli hugin inkscape kodi krita milkytracker mkvtoolnix-cli mkvtoolnix-gui moc openshot picard pitivi rawtherapee shntool smplayer smplayer-{skins,themes} soundconverter id3v2 youtube-dl mac libdvdcss celluloid vidcutter font-manager blanket birdfont gcolor3 xnviewmp-system-libs indicator-sound-switcher gifcurry flameshot webp-pixbuf-loader upscayl-appimage waifu2x-ncnn-vulkan realesrgan-ncnn-vulkan
 ```
 
 Depuis `Flatpak`
 
 ```shell
-sudo flatpak install flathub com.spotify.Client com.github.marinm.songrec org.gnome.gitlab.YaLTeR.VideoTrimmer org.flozz.yoga-image-optimizer io.github.jliljebl.Flowblade org.nickvision.tubeconverter flathub sa.sy.bluerecorder
+sudo flatpak install flathub com.spotify.Client com.github.marinm.songrec org.gnome.gitlab.YaLTeR.VideoTrimmer org.flozz.yoga-image-optimizer io.github.jliljebl.Flowblade org.nickvision.tubeconverter flathub sa.sy.bluerecorder io.gitlab.adhami3310.Converter
 ```
 
 Depuis `PIP`
