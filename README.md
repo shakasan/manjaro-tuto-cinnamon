@@ -723,7 +723,7 @@ sudo flatpak install flathub com.jgraph.drawio.desktop org.nickvision.money
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S firefox firefox-i18n-fr chromium slack-desktop thunderbird thunderbird-i18n-fr nextcloud-client digikam discord filezilla google-chrome hexchat icedtea-web links mumble teamspeak3 mypaint opera opera-ffmpeg-codecs pidgin pidgin-{libnotify,otr} purple-{facebook,plugin-pack,skypeweb} quiterss syncthing syncthing-gtk telegram-{desktop,qt} vivaldi vivaldi-ffmpeg-codecs skypeforlinux-stable zoom liferea cawbird signal-desktop caprine newsflash brave-browser element-desktop whalebird-bin birdtray telegram-purple microsoft-edge-stable-bin torbrowser-launcher gallery-dl teams ferdium-bin hamsket-bin tangram webapp-manager
+yay -S firefox firefox-i18n-fr chromium slack-desktop thunderbird thunderbird-i18n-fr nextcloud-client digikam discord filezilla google-chrome hexchat icedtea-web links mumble teamspeak3 mypaint opera opera-ffmpeg-codecs pidgin pidgin-{libnotify,otr} purple-{facebook,plugin-pack,skypeweb} quiterss syncthing syncthing-gtk telegram-{desktop,qt} vivaldi vivaldi-ffmpeg-codecs skypeforlinux-stable zoom liferea signal-desktop caprine newsflash brave-browser element-desktop whalebird-bin birdtray telegram-purple microsoft-edge-stable-bin torbrowser-launcher gallery-dl teams ferdium-bin hamsket-bin tangram webapp-manager
 ```
 
 Depuis `Flatpak`
@@ -873,7 +873,7 @@ On ajoute quelques thèmes GTK et icones
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S arc-gtk-theme arc-icon-theme matcha-gtk-theme kvantum-theme-matcha kvantum-theme-orchis-git orchis-theme elementary-icon-theme kvantum-theme-materia materia-gtk-theme whitesur-gtk-theme whitesur-kvantum-theme-patched-git yaru-gtk-theme aritim-dark-gtk-git aritim-dark-kde-git qogir-gtk-theme-git kvantum-theme-qogir-git adw-gtk3 adwaita-qt5 adwaita-qt6 colloid-gtk-theme-git colloid-kde-theme-git numix-gtk-theme-git
+yay -S arc-gtk-theme arc-icon-theme matcha-gtk-theme kvantum-theme-matcha kvantum-theme-orchis-git orchis-theme elementary-icon-theme kvantum-theme-materia materia-gtk-theme whitesur-gtk-theme whitesur-kvantum-theme-patched-git yaru-gtk-theme qogir-gtk-theme-git kvantum-theme-qogir-git adw-gtk3 adwaita-qt5 adwaita-qt6 colloid-gtk-theme-git colloid-kde-theme-git numix-gtk-theme-git
 ```
 
 ## Widgets
