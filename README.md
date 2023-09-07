@@ -657,7 +657,7 @@ pipx install md2pdf
 Depuis des dépôts et/ou AUR
 
 ```shell
-yay -S quodlibet vlc mpv xsane shotwell simplescreenrecorder lib32-simplescreenrecorder asunder audacious audacious-plugins audacity avidemux-cli avidemux-qt blender cheese cuetools darktable peek shotcut flacon gpick gpicview guvcview handbrake handbrake-cli hugin inkscape kodi krita milkytracker mkvtoolnix-cli mkvtoolnix-gui moc openshot picard pitivi rawtherapee shntool smplayer smplayer-{skins,themes} soundconverter id3v2 youtube-dl mac libdvdcss celluloid vidcutter font-manager blanket birdfont gcolor3 xnviewmp-system-libs indicator-sound-switcher gifcurry flameshot webp-pixbuf-loader upscayl-appimage waifu2x-ncnn-vulkan realesrgan-ncnn-vulkan natron-bin
+yay -S quodlibet vlc mpv xsane shotwell simplescreenrecorder lib32-simplescreenrecorder asunder audacious audacious-plugins audacity avidemux-cli avidemux-qt blender cheese cuetools darktable peek shotcut flacon gpick gpicview guvcview handbrake handbrake-cli hugin inkscape kodi krita milkytracker mkvtoolnix-cli mkvtoolnix-gui moc openshot picard pitivi rawtherapee shntool smplayer smplayer-{skins,themes} soundconverter id3v2 youtube-dl mac libdvdcss celluloid vidcutter font-manager blanket birdfont gcolor3 xnviewmp-system-libs indicator-sound-switcher gifcurry flameshot webp-pixbuf-loader upscayl-appimage waifu2x-ncnn-vulkan realesrgan-ncnn-vulkan natron-bin playerctl
 ```
 
 Depuis `Flatpak`
@@ -881,7 +881,7 @@ yay -S arc-gtk-theme arc-icon-theme matcha-gtk-theme kvantum-theme-matcha kvantu
 ### Conky
 
 ```shell
-yay -S conky conky-manager
+yay -S conky-cairo conky-manager2-git
 ```
 
 ## Wallpapers
