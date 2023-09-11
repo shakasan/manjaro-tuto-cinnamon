@@ -723,7 +723,7 @@ sudo flatpak install flathub com.jgraph.drawio.desktop org.nickvision.money
 Depuis les dépôts et/ou AUR
 
 ```shell
-yay -S firefox firefox-i18n-fr chromium slack-desktop thunderbird thunderbird-i18n-fr nextcloud-client digikam discord filezilla google-chrome hexchat icedtea-web links mumble teamspeak3 mypaint opera opera-ffmpeg-codecs quiterss syncthing syncthing-gtk telegram-desktop vivaldi vivaldi-ffmpeg-codecs skypeforlinux-stable zoom liferea signal-desktop caprine newsflash brave-browser element-desktop whalebird-bin birdtray telegram-purple microsoft-edge-stable-bin torbrowser-launcher gallery-dl teams ferdium-bin hamsket-bin tangram webapp-manager
+yay -S firefox firefox-i18n-fr chromium slack-desktop thunderbird thunderbird-i18n-fr nextcloud-client digikam discord filezilla google-chrome hexchat icedtea-web links mumble teamspeak3 mypaint opera opera-ffmpeg-codecs quiterss syncthing syncthing-gtk telegram-desktop vivaldi vivaldi-ffmpeg-codecs skypeforlinux-stable zoom liferea signal-desktop caprine newsflash brave-browser element-desktop whalebird birdtray telegram-purple microsoft-edge-stable-bin torbrowser-launcher gallery-dl teams ferdium-bin hamsket-bin tangram webapp-manager
 ```
 
 Depuis `Flatpak`
