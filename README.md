@@ -633,6 +633,13 @@ Depuis les dépôts et/ou AUR
 yay -S detox qt5-styleplugins clamav clamtk alltray aria2 htop bmon screen bleachbit copyq dialog dosbox fcrackzip fdupes figlet guake idle3-tools mupdf mupdf-tools pdfcrack pdfgrep psensor pv screenfetch neofetch ulauncher terminator tilda pandoc stress odt2txt strace tilix etcher-bin lm_sensors pdfmixtool libva-utils xdotool tmsu-bin xcalib qtqr woeusb spectre-meltdown-checker inxi cryptkeeper s-tui linpack nano-syntax-highlighting kdocker rpi-imager duf iotop vorta edid-decode-git hw-probe mc sct fwupd nvtop qt5ct qt6ct geekbench sg3_utils nvme-cli smartmontools cheat-bin ncdu lynis gdu sysprof trdsql-bin at
 ```
 
+On démarre/active le service `atd`
+
+```shell
+sudo systemctl start atd.service
+sudo systemctl enable atd.service
+```
+
 Depuis `Flatpak`
 
 ```shell
