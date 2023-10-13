@@ -636,7 +636,7 @@ yay -S detox qt5-styleplugins clamav clamtk alltray aria2 htop bmon screen bleac
 Depuis `Flatpak`
 
 ```shell
-sudo flatpak install com.github.tchx84.Flatseal flathub io.github.flattool.Warehouse
+sudo flatpak install com.github.tchx84.Flatseal io.github.flattool.Warehouse net.nokyan.Resources
 ```
 
 Depuis `NPM`
