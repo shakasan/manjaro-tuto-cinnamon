@@ -548,6 +548,13 @@ Le nécessaire pour utiliser les cartes à puces (carde d'identité, ...)
 yay -S pcsc-tools ccid
 ```
 
+Et lancer/activer le service
+
+```shell
+sudo systemctl enable --now pcscd.service
+```
+
+
 ### eID Middleware
 
 Nécessaire pour les services fédéraux, etc en lignes en Belgique, le middleware eID.
