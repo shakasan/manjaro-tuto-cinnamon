@@ -1538,7 +1538,7 @@ yay -S dbeaver
 ### Docker
 
 ```shell
-yay -S docker docker-compose
+yay -S docker docker-compose dive
 ```
 
 On créer un groupe `docker` et on y ajoute son user
