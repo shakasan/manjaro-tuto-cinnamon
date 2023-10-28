@@ -1538,7 +1538,7 @@ yay -S dbeaver
 ### Docker
 
 ```shell
-yay -S docker docker-compose dive hadolint
+yay -S docker docker-compose dive hadolint-bin
 ```
 
 On créer un groupe `docker` et on y ajoute son user
