@@ -1,12 +1,14 @@
+# Post Installation
+
 ![manjaro_logo_text.png](pics/manjaro_logo_text.png)
+
+> **Remarque** : cette doc n'est plus mise à jours depuis un long moment !!
 
 Ce tuto est à la base une doc personnelle.
 
 Néanmoins, j'ai tenté autant que possible de la rédiger afin qu'elle soit utilisable par d'autres.
 
 Les commentaires sont évidement les bienvenus ;)
-
-# Post Installation
 
 Bon... normalement, à ce stade, vous venez de terminer l'installation de base de **Manjaro Cinnamon** ;)
 
@@ -553,7 +555,6 @@ Et lancer/activer le service
 ```shell
 sudo systemctl enable --now pcscd.service
 ```
-
 
 ### eID Middleware
 
